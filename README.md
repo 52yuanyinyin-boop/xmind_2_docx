@@ -1,0 +1,2 @@
+# xmind_2_docx
+将xmind文件转换成docx文件的脚本 将xmind文件转换成docx文件的脚本
